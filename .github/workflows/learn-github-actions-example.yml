@@ -9,5 +9,5 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '14'
-      - run: npm install -g python
-      - run: python -version
+      - run: npm install -g json
+      - run: json --version
