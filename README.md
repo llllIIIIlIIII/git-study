@@ -1,2 +1,4 @@
-# git-study
-git, github 공부를 위한 저장소
+# git-study 
+
+
+으아아아아아아앙
